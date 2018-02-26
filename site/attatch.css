@@ -1,0 +1,68 @@
+h1 {background-color:green;
+				color:red;
+				text-align:center;
+				padding-right:50px;
+				padding-left:50px;
+				padding-bottom:25px;
+				padding-top:25px;
+				text-transform:uppercase;
+				text
+				border:3px dotted brown;
+	}
+p  {color:green;
+				text-style:italic;
+				font-weight:bold;
+				}
+h2 {text-align:left;
+				color:Blue;
+				}
+.heading {color:#ff0000;
+				text-align:center;
+				padding:2%;
+				margin-top:0;
+				margin-bottom:0;
+				margin-right:0;
+				margin-left:0;
+				text-transform:Uppercase;
+				text-shadow:none;
+				border:3px dotted brown;
+				background-color:#0000ff;
+				}
+	* { box-sizing:border-box;
+		}
+.about {color:black;
+}
+.blue {color:red;
+}
+a:link {color:green;
+			font-style:italic;
+		}
+a:visited {color:blue;
+			}
+a:active {color:green;
+			background-color:green;
+			font-weight:bold;
+		}
+a:hover {color:white;
+				background-color:green;
+				font-weight:bold;
+		}
+#myimage {border:1px hidden none;
+			width:100%;
+			max-height:200px;
+			text-align:center;
+}
+#detail {
+	border:3px dotted red;
+		background-color:yellow;
+		padding:20px;
+		margin-top:20px;
+		margin-left:10%;
+		margin-right:10%;
+		color:blue;
+}
+#pages {clear:both;
+color:black;
+}
+	
+		
